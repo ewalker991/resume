@@ -1,0 +1,11 @@
+{
+  "name": "erikasanchez-resume",
+  "version": "1.0.0",
+  "description": "my resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erika sanchez",
+  "license": "ISC"
+}
