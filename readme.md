@@ -1,3 +1,3 @@
 # My Resumé
 
-Here is a brief node of a brief resumé about me! 
+Here is a node of a brief resumé about me! 
