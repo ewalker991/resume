@@ -1,4 +1,7 @@
 {
+  "bin": {
+    "showRecipient": "./index.js"
+  },
   "name": "erikasanchez-resume",
   "version": "1.0.1",
   "description": "my resume",
