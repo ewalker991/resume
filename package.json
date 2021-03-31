@@ -1,14 +1,17 @@
 {
   "bin": {
-    "showRecipient": "./index.js"
+    "showRecipient": "index.js"
   },
   "name": "erikasanchez-resume",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "my resume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "erika sanchez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "erikasanchez-resume": "^1.0.2"
+  }
 }
